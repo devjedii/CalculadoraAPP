@@ -3,6 +3,10 @@
 Autor: Matheus de Amorim Benites - DevJedi
 E-mail: contato@devjedi.com.br
 
+Para entender como criar a aplicação acesse nosso site.
+
+https://www.devjedi.com.br/
+
 Aplicação desenvolvida como material de apoio ao aprendizado de programação para Android. É fornecida gratuitamente "no estado em que se encontra", isentando o autor de qualquer garantia ou danos que possam resultar do uso da mesma.
 
 Ferramentas utilizadas:
